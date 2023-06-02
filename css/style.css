@@ -47,7 +47,7 @@ address {
 .header {
   width: 1000px;
   margin: 0 auto;
-  padding; 20px 0;
+  padding: 20px 0;
 }
 
 /* ロゴ */
@@ -65,4 +65,16 @@ address {
 .top{
   margin-bottom: 20px;
   text-align: center;
+}
+
+/* ナビ */
+.nav {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.nav-list a {
+  display: inline-block;
+  padding: 0 15px;
+  line-height: 1.2;
+  text-transform: uppercase;
 }
