@@ -11,13 +11,13 @@ body {
   color: #806342;
   background-color: #fff;
 }
-
+/* 見出しの上下の外余白や行の高さを指定 */
 h1,h2{
   margin-top: 0;
   margin-bottom: 30px;
   line-height: 1.2;
 }
-
+/* リンクの文字色や文字の装飾を指定 */
 a {
   color: #806342;
   text-decoration: underline;
@@ -36,7 +36,7 @@ figure {
   margin: 0;
 }
 img {
-  max-width: 100%;
+  max-width: 100%;    /*画像の最大幅を指定*/
   height: auto;
 }
 address {
