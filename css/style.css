@@ -42,3 +42,27 @@ img {
 address {
   font-style: normal;
 }
+
+/* ヘッダー */
+.header {
+  width: 1000px;
+  margin: 0 auto;
+  padding; 20px 0;
+}
+
+/* ロゴ */
+.logo {
+  margin: 0;
+  text-align: center;
+}
+
+/* メイン */
+.main{
+  width: 1000px;
+  margin: 0 auto;
+}
+/* トップ(メインイメージ) */
+.top{
+  margin-bottom: 20px;
+  text-align: center;
+}
