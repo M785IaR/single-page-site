@@ -20,6 +20,9 @@ h1,h2{
 /* リンクの文字色や文字の装飾を指定 */
 a {
   color: #806342;
+  text-decoration: none;
+}
+a:hover{
   text-decoration: underline;
 }
 
